@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5052145E2B078296007DDBAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5052145D2B078296007DDBAB /* main.swift */; };
-		505214652B0782DF007DDBAB /* tamogotchi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 505214642B0782DF007DDBAB /* tamogotchi.swift */; };
+		C207AD072B0D696900A60A6F /* tamogotchi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 505214642B0782DF007DDBAB /* tamogotchi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -123,7 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				505214652B0782DF007DDBAB /* tamogotchi.swift in Sources */,
+				C207AD072B0D696900A60A6F /* tamogotchi.swift in Sources */,
 				5052145E2B078296007DDBAB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
